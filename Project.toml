@@ -1,0 +1,4 @@
+name = "parakeet"
+uuid = "b1dd71de-77b5-424b-8863-eadf69e28a91"
+authors = ["JLSellorsIII <jeremy.sellors@alumni.ubc.ca>"]
+version = "0.1.0"
